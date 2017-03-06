@@ -3,6 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// I think we should run an instance of fizzbuzz
+        Fizzbuzz fizzbuzz = new Fizzbuzz();
+        //SKI*TBRA JOBBAT!!
     }
 }
