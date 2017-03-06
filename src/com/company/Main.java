@@ -7,8 +7,8 @@ public class Main {
         String buzz =  "buzz", fizz = "fizz"; //initialise the string variables
         for (int i = 1; i <= 100; i++)
         {
-            if (i % 5 == 0 && i % 3 == 0) //check if number in position i is divisable by 15, if so don't check other 2 conditions - we don't want a double print
-            
+            if (i % 5 == 0 && i % 3 == 0)
+
                 {
                 System.out.println(buzz + fizz + " " + i);
             }
